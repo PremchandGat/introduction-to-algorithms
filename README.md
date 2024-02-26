@@ -2,4 +2,4 @@
 
 ## Sorting Algorithms
 
-    - &check; Insertion sort
+&check; `Insertion sort:`
