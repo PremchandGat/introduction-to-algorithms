@@ -3,3 +3,5 @@
 ## Sorting Algorithms
 
 &check; `Insertion sort:`
+
+&check; `Selection sort:`
