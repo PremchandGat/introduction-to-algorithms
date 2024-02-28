@@ -5,3 +5,7 @@
 &check; `Insertion sort:`
 
 &check; `Selection sort:`
+
+&check; `Merge sort:`
+
+&check; `Bubble sort:`
