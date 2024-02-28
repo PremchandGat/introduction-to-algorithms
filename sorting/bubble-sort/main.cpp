@@ -1,3 +1,6 @@
+/*  @author Premchandgat
+    @brief Bubble sort algorithm */
+
 #include "../print_list.cpp"
 
 /* Bubble Sort algorithm */
